@@ -1,0 +1,13 @@
+{
+   "demoPersons" : {
+      "person" : [ {
+         "empid" : 11636,
+         "fname" : "satheesh",
+         "lname" : "kannan"
+      }, {
+         "empid" : 11636,
+         "fname" : "dashvanth",
+         "lname" : "kannan"
+      } ]
+   }
+}

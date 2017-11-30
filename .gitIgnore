@@ -1,0 +1,9 @@
+target/
+test-output/
+testng-customsuite.xml
+Migration-TestCases-UI.xlsx
+.settings
+.project
+
+.classpath
+testngTestcaseExcel-1.xls
